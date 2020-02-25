@@ -1,0 +1,22 @@
+PODS:
+  - Charts (3.4.0):
+    - Charts/Core (= 3.4.0)
+  - Charts/Core (3.4.0)
+  - SwiftWebSocket (2.7.0)
+
+DEPENDENCIES:
+  - Charts
+  - SwiftWebSocket
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - SwiftWebSocket
+
+SPEC CHECKSUMS:
+  Charts: 74c9f256eaf0460c0c416522d1cf8c634ea6b286
+  SwiftWebSocket: 612c9729fd503cb6b0b8b45390c788686dac306f
+
+PODFILE CHECKSUM: 6a6a3838654c19140cdda0c44b891054cf609ae0
+
+COCOAPODS: 1.8.4

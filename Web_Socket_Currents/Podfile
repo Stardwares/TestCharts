@@ -1,0 +1,7 @@
+platform :ios, '11.0'
+use_frameworks!
+
+target 'Web_Socket_Currents' do
+  pod 'SwiftWebSocket'
+  pod 'Charts'
+end
